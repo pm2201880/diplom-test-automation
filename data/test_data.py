@@ -1,0 +1,7 @@
+BASE_URL = "https://www.saucedemo.com"
+STANDARD_USER = "standard_user"
+LOCKED_OUT_USER = "locked_out_user"
+PASSWORD = "secret_sauce"
+FIRST_NAME = "Ivan"
+LAST_NAME = "Ivanov"
+POSTAL_CODE = "119049"
