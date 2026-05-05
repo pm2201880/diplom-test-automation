@@ -22,3 +22,4 @@ def page(browser_name):
         page = browser.new_page()
         yield page
         browser.close()
+        
